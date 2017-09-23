@@ -24,6 +24,16 @@ body {
     color: #555;
 }
 
+.rule{ 
+    position: absolute;
+    top: 10;
+    left: 20px;
+    
+   
+   
+}
+
+
 .wrapper {
     width: 1000px;
     position: absolute;
